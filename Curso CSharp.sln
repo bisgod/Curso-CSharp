@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula1", "Aula1", "{1E3EB3D5-DBED-4103-B95B-DC583B69459C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilmeApi", "Aula1\FilmesApi\FilmeApi.csproj", "{44DD326C-E033-4F63-9E10-576BC14C5EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DD326C-E033-4F63-9E10-576BC14C5EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DD326C-E033-4F63-9E10-576BC14C5EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DD326C-E033-4F63-9E10-576BC14C5EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DD326C-E033-4F63-9E10-576BC14C5EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{44DD326C-E033-4F63-9E10-576BC14C5EFA} = {1E3EB3D5-DBED-4103-B95B-DC583B69459C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91764235-F3D4-462B-BFCD-21D5D74065E9}
+	EndGlobalSection
+EndGlobal
