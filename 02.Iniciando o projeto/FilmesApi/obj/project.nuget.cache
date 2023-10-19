@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WdMvBleUGvGHEZHEBA6My6SW0mR8wcGBKUPQyzW1x9yH8cwV8g0M08LGhdTIdMffpZqKwYhZbZyUJYmD4rpBDg==",
+  "dgSpecHash": "obt04FHSnRlzf4xvIE4QNEKdae9IsVq6iM3V116C5kXQVuFLJ6NeDEKmjTN5dRv2QsLHCKT14K7U4sZKm76pPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafael.segovia\\Desktop\\Curso CSharp\\Aula1\\FilmesApi\\FilmeApi.csproj",
+  "projectFilePath": "C:\\Users\\rafael.segovia\\Desktop\\Curso CSharp\\02.Iniciando o projeto\\FilmesApi\\FilmeApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafael.segovia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\rafael.segovia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafael.segovia\\Desktop\\Curso CSharp\\Aula1\\FilmesApi\\FilmeApi.csproj",
+      "projectUniqueName": "C:\\Users\\rafael.segovia\\Desktop\\Curso CSharp\\02.Iniciando o projeto\\FilmesApi\\FilmeApi.csproj",
       "projectName": "FilmeApi",
-      "projectPath": "C:\\Users\\rafael.segovia\\Desktop\\Curso CSharp\\Aula1\\FilmesApi\\FilmeApi.csproj",
+      "projectPath": "C:\\Users\\rafael.segovia\\Desktop\\Curso CSharp\\02.Iniciando o projeto\\FilmesApi\\FilmeApi.csproj",
       "packagesPath": "C:\\Users\\rafael.segovia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafael.segovia\\Desktop\\Curso CSharp\\Aula1\\FilmesApi\\obj\\",
+      "outputPath": "C:\\Users\\rafael.segovia\\Desktop\\Curso CSharp\\02.Iniciando o projeto\\FilmesApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafael.segovia\\AppData\\Roaming\\NuGet\\NuGet.Config"
