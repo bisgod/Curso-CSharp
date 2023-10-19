@@ -16,5 +16,10 @@ namespace FilmesApi.Controllers
             Console.WriteLine(filme.Titulo);
             Console.WriteLine(filme.Duracao);
         }
+        [HttpGet]
+        public List<Filme> RecuperaFilmes()
+        {
+            return filmes;
+        }
     }
 }
