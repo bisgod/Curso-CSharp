@@ -18,11 +18,14 @@ namespace FilmesApi.Controllers
             Console.WriteLine(filme.Titulo);
             Console.WriteLine(filme.Duracao);
         }
+
         [HttpGet]
-        public List<Filme> RecuperaFilmes()
+        public IEnumerable<Filme> RecuperaFilmes([FromQuery] int skip=  0, [FromQuery] int take = 10)
         {
-            return filmes;
+            //http://localhost:5209/filme?skip=0&take=2
+            return filmes.Skip(skip).Take(take);
         }
+        
         [HttpGet("{id}")]
         public Filme? RecuperaFilmePorId(int id)
         {
